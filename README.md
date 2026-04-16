@@ -17,7 +17,7 @@ As reservas canceladas representam um desafio operacional e financeiro significa
 
 ## Dataset
 
-[Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) — Kaggle
+[Hotel Bookings](https://www.kaggle.com/datasets/mexwell/hotel-bookings) — Kaggle
 
 | Característica | Valor |
 |---|---|
@@ -101,7 +101,7 @@ cd hotel_cancellation_deeplearning
 pip install -r requirements.txt
 
 # 3. Colocar o dataset em data/hotel_bookings.csv
-#    Download: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+#    Download: https://www.kaggle.com/datasets/mexwell/hotel-bookings
 
 # 4. Correr o notebook
 jupyter notebook notebooks/hotel_cancellation_neural_networks.ipynb
